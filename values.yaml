@@ -1,0 +1,7 @@
+image:
+  repository: "frontend-app"
+  tag: "latest"
+
+ingress:
+  enabled: true
+  host: frontend.example.local
